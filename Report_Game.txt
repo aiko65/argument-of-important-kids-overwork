@@ -1,0 +1,36 @@
+App : ver 991
+OS : Windows 10.0？  PID 2 Build 17134
+CPU : GenuineIntel        Intel(R) Core(TM) i5-2520 2494
+Mem Total : 2048.000MB
+Mem Free : 2048MB
+Vir Total : 2047.875MB
+Vir Free : 1961MB
+HD Free : 2048MB
+Display : (1366,768)
+System Font : Yu Gothic UI (0,-12) 0
+VSync : 1
+RefreshRate : 60
+Device HAL-HARD
+X8R8G8B8
+Mode : Window
+Bpp : 32
+DirectX 12
+TextureMem : 1660MB
+---デバイス0
+Description : Intel(R) HD Graphics 3000
+Driver : igdumd32.dll 659819
+TextureMaxSize : (8192,8192)
+TextureMaxBlend : (8,8)
+D3DCAPS3_ALPHA_FULLSCREEN_FLIP_OR_DISCARD
+D3DCAPS2_DYNAMICTEXTURES
+AU-SU？ AU-TE○ 
+DE-SU？ DE-TE？ 
+DM-SU？ DM-TE？ 
+DO-SU？ DO-TE○ 
+DY-SU？ DY-TE○ 
+NP-SU？ NP-TE○ 
+PO-SU？ PO-TE○ 
+RT-SU？ RT-TE○ 
+RE-SU○ RE-TE○ 
+SO-SU？ SO-TE○ 
+WR-SU？ WR-TE○ 
